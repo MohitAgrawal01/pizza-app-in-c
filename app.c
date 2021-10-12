@@ -4,8 +4,8 @@ int main() {
 //Defining variable and its types
 
     int r,k,q;
-    int p1 = 1, p2=2, p3=3; //predefined product prices
-    int q1=34, q2=25, q3=24; //predefined quantity of products
+    int p1 = 1, p2=2, p3=3; //stored product prices
+    int q1=34, q2=25, q3=24; //stored quantity of products
     int uid,pin, aid, apin; // for taking input for login details from user
     int user_id=2021, user_pin=9999; //user id and password
     int admin_id=1234,admin_pin=9876; // admin id and password
