@@ -190,7 +190,7 @@ int main() {
         
         }//end of option2
     }//end of while
-    }//end of pin check block
+    }//end of pin check block
     }//end of username check block
     }//end of type check block
     }//end of main function
